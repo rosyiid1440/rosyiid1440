@@ -2,6 +2,22 @@
   Hi there 👋 I'm  👨‍💻
 </h1>
 
+<p align='center'>
+  A , Indonesia.
+</p>
+
+<p align='center'>
+  <a href="https://www.instagram.com/rosyiid1440/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://facebook.com/rga.gwj">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosyiid1440&show_icons=true&theme=radical)
+
+
 <!--
 **rosyiid1440/rosyiid1440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
