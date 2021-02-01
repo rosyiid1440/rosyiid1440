@@ -15,9 +15,15 @@
   </a>&nbsp;&nbsp;
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosyiid1440&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosyiid1440)](https://github.com/anuraghazra/github-readme-stats)
+## 💻 Some stats
 
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=rosyiid1440&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rosyiid1440&hide=css,java,html&theme=tokyonight">
+</p>
 
 <!--
 **rosyiid1440/rosyiid1440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
