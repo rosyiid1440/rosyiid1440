@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **rosyiid1440/rosyiid1440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
