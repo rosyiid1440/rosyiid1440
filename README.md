@@ -15,6 +15,10 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<p align='center'>
+  <img src="https://www.codewars.com/users/rosyiid1440/badges/small" />
+</p>&nbsp;&nbsp;
+
 ## 💻 Some stats
 
 <details open>
